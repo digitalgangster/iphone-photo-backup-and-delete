@@ -1,0 +1,2 @@
+# iCloud Photo Cleaner (installed into a separate .venv-icloud by "Run iCloud Cleaner.bat")
+pyicloud==2026.10.0

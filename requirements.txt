@@ -1,0 +1,2 @@
+# Probe, Photo Extractor and Network Watch (installed into .venv by the .bat launchers)
+pymobiledevice3==11.28.2

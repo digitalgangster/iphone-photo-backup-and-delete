@@ -1,0 +1,4 @@
+# Only needed to run the test suite
+-r requirements.txt
+-r requirements-icloud.txt
+scapy

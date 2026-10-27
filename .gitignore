@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv-icloud/
+
+# Local settings and run output (personal - never commit)
+extractor_settings.json
+icloud_cleaner_settings.json
+probe_output/
+netwatch_output/
