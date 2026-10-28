@@ -1,7 +1,9 @@
-# iPhone Photo Extractor
+# iPhone Photo Backup & Delete
 
-Copy an entire iPhone photo and video library to a Windows PC over USB — reliably, even when the library
-is huge — and then, optionally, clear it out of iCloud.
+Back up an entire iPhone photo and video library to a Windows PC over USB — reliably, even when the library
+is huge — then delete only the verified backups from iCloud.
+
+### [⬇ Download v1.0](https://github.com/digitalgangster/iphone-photo-backup-and-delete/releases/tag/v1.0)
 
 Built after Windows' own import (File Explorer / Photos app) kept freezing on a 64,000-item, 400 GB
 library. Tested end to end on an iPhone 14 Pro Max running iOS 26: 69,391 files, 0 failures.
