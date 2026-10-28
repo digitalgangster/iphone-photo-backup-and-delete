@@ -5,6 +5,22 @@ is huge — then delete only the verified backups from iCloud.
 
 ### [⬇ Download v1.0](https://github.com/digitalgangster/iphone-photo-backup-and-delete/releases/tag/v1.0)
 
+## Problems this solves
+
+If you landed here from a search, this is probably why:
+
+- **Windows Photos app import freezes, hangs, or gets stuck** partway through importing iPhone photos.
+- **"The device is unreachable"** or "A device attached to the system is not functioning" when copying from an iPhone in File Explorer.
+- **Not all iPhone photos show up** in File Explorer, or the import keeps starting over.
+- **HEIC photos get converted to JPG** during transfer. This tool copies the original files untouched.
+- **Too many photos to transfer** — 50,000+ items or hundreds of GB — and every attempt fails partway.
+- **iCloud storage full** and you don't want to pay for more: back everything up to your PC first, then clear iCloud.
+- **Deleting a huge library from iCloud by hand** is slow and risky. The iCloud Cleaner deletes only photos verified on your PC, in paced batches, and lists everything it kept.
+- **Photos synced from iCloud have random code names** on the phone. This tool restores the original filenames.
+
+It copies over USB, resumes automatically after freezes, crashes or unplugging, and verifies every file.
+The extractor never deletes or changes anything on your iPhone.
+
 Built after Windows' own import (File Explorer / Photos app) kept freezing on a 64,000-item, 400 GB
 library. Tested end to end on an iPhone 14 Pro Max running iOS 26: 69,391 files, 0 failures.
 
