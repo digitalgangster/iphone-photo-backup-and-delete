@@ -15,7 +15,7 @@ If you landed here from a search, this is probably why:
 - **HEIC photos get converted to JPG** during transfer. This tool copies the original files untouched.
 - **Too many photos to transfer** — 50,000+ items or hundreds of GB — and every attempt fails partway.
 - **iCloud storage full** and you don't want to pay for more: back everything up to your PC first, then clear iCloud.
-- **Deleting a huge library from iCloud by hand** is slow and risky. The iCloud Cleaner deletes only photos verified on your PC, in paced batches, and lists everything it kept.
+- **icloud.com would only delete 1,000 photos at a time, including in Recently Deleted.**
 - **Photos synced from iCloud have random code names** on the phone. This tool restores the original filenames.
 
 It copies over USB, resumes automatically after freezes, crashes or unplugging, and verifies every file.
